@@ -1,0 +1,9 @@
+<library path="rviz_panel_demo">
+
+  <class
+    type="rviz_plugins::MyPanel"
+    base_class_type="rviz_common::Panel">
+    <description>MyPanel</description>
+  </class>
+
+</library>
